@@ -1,0 +1,2 @@
+最終作業：
+完成個人自我介紹網站（含作品集），完成後將網站上傳至GitHub，並設定GitPub Pages，最後將網址連結貼至以下Google試算表內：https://docs.google.com/spreadsheets/d/1V0RkO1ftWNITAz6dNz1tJ4gdIqmZezKFBZUVf1ohmQg/edit#gid=0
